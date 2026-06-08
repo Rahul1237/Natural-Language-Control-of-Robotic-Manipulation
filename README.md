@@ -95,7 +95,7 @@ Tool 3: Robot Execution (PyDobot)
 
 ## Full Report
 Complete IEEE format technical report with 
-methodology, results, and analysis:
+methodology, results, and analysis: [View Full Technical Report](https://github.com/Rahul1237/Natural-Language-Control-of-Robotic-Manipulation/blob/main/Natural%20Language%20Control%20of%20Robotic%20Manipulation.pdf)
 
 
 ## Reference
